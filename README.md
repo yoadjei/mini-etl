@@ -1,4 +1,4 @@
-# Mini ETL (MVP)
+# Mini ETL
 
 A lightweight, streaming ETL system in Python. No complex schedulers, just code.
 
